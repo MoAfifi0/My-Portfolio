@@ -1,6 +1,17 @@
+<h2 align="center">
+  Mohamed Afifi | Portfolio Website<br/>
+  <a href="https://6512d04b24fcb10c51f3fa32--remarkable-narwhal-93d4b6.netlify.app/" target="_blank">6512d04b24fcb10c51f3fa32--remarkable-narwhal-93d4b6.netlify.app/</a>
+</h2>
+<div align="center">
+  <img alt="Demo" src="./Images/readme_img.png" />
+</div>
+
+<br/>
+
+
 ## Built With
 
-My personal portfolio website which features some of my github projects as well as my resume and technical skills.
+My personal portfolio website <a href="https://6512d04b24fcb10c51f3fa32--remarkable-narwhal-93d4b6.netlify.app/" target="_blank">6512d04b24fcb10c51f3fa32--remarkable-narwhal-93d4b6.netlify.app/</a> which features some of my github projects as well as my resume and technical skills.<br/>
 
 This project is built using these technologies.
 
@@ -37,6 +48,8 @@ The page will reload if you make edits.
 
 Open the project folder and Navigate to `/src/components/`. <br/>
 You will find all the components used and you can edit your information accordingly.
+
+### Show your support
 
 <p align="center">
 Give a ⭐ if you like this website!
