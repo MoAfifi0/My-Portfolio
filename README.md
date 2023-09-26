@@ -1,6 +1,6 @@
 <h2 align="center">
   Mohamed Afifi | Portfolio Website<br/>
-  <a href="https://6512d04b24fcb10c51f3fa32--remarkable-narwhal-93d4b6.netlify.app/" target="_blank">6512d04b24fcb10c51f3fa32--remarkable-narwhal-93d4b6.netlify.app/</a>
+  <a href="https://moafifi.netlify.app/" target="_blank">moafifi.netlify.app/</a>
 </h2>
 <div align="center">
   <img alt="Demo" src="./Images/readme_img.png" />
@@ -11,7 +11,7 @@
 
 ## Built With
 
-My personal portfolio website <a href="https://6512d04b24fcb10c51f3fa32--remarkable-narwhal-93d4b6.netlify.app/" target="_blank">6512d04b24fcb10c51f3fa32--remarkable-narwhal-93d4b6.netlify.app/</a> which features some of my github projects as well as my resume and technical skills.<br/>
+My personal portfolio website <a href="https://moafifi.netlify.app/" target="_blank">moafifi.netlify.app/</a> which features some of my github projects as well as my resume and technical skills.<br/>
 
 This project is built using these technologies.
 

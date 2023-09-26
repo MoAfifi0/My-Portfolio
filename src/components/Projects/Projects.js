@@ -3,10 +3,8 @@ import { Container, Row, Col } from "react-bootstrap";
 import ScrollToTop from "../ScrollToTop/ScrollToTop";
 import ProjectCard from "./ProjectCards";
 
-import PrivateChat from "../../Assets/Projects/PrivateChat.png";
 import Portfolio from "../../Assets/Projects/Portfolio.png";
 import Ecart from "../../Assets/Projects/ecart.png";
-import ExpenseTracker from "../../Assets/Projects/ExpenseTracker.png";
 
 import "./project.css";
 
@@ -35,7 +33,7 @@ function Projects() {
               title="Portfolio Website"
               description="My personal Portfolio Website build with React and Bootstrap. It is fully responsive website which supports both dark and light mode."
               ghLink="https://github.com/MoAfifi0/My-Portfolio"
-              demoLink="https://6512d04b24fcb10c51f3fa32--remarkable-narwhal-93d4b6.netlify.app/"
+              demoLink="https://moafifi.netlify.app/"
             />
           </Col>
         </Row>
